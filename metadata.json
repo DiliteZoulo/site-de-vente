@@ -1,0 +1,6 @@
+{
+  "name": "NovaShop - Boutique en Ligne Épurée",
+  "description": "Boutique en ligne moderne et épurée proposant une sélection exclusive de produits high-tech, design, mode et lifestyle avec filtrage intelligent et paiement sécurisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
